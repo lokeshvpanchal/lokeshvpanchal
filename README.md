@@ -24,7 +24,7 @@ Key coursework: Data Structures & Algorithms, Object Oriented Programming, Web D
 
 ## 🏢 Experience
 
-### Full Stack Software Developer  
+### Software Developer  
 **Digital Seniors NL**, St. John’s, NL — April 2025 – Present  
 - Integrated AI-driven APIs (chatbots, voice navigation, personalized content) to enhance engagement and accessibility for seniors  
 - Collaborated with organization directors to gather requirements for the official website  
