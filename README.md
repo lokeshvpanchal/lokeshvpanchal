@@ -34,30 +34,6 @@ Key coursework: Data Structures & Algorithms, Object Oriented Programming, Web D
 
 ---
 
-## 🚀 Projects
-
-### Bus Ticket Booking App  
-**Angular 18** — Jun 2025  
-- Developed a dynamic booking platform with routing, reusable components, and REST API integration  
-- Implemented real-time search, date selection, and modal pop-ups for a seamless user experience  
-
-### Restaurant Management System  
-**React · Express.js · Node.js · MySQL · Bootstrap · Figma** — Dec 2024  
-- Led full-stack development: reservations, orders, table & inventory management, reporting module  
-- Defined use cases, oversaw UX/UI design, and coordinated team tasks  
-
-### Interactive 3D Book  
-**Three.js · React** — May 2025  
-- Built a realistic 3D book with bone-based page-flip animations, dynamic lighting, and pointer interactions  
-
-### Delifin  
-**AWS · React · Spring Boot · JWT · MySQL** — Mar 2025  
-- Created a cloud-based logistics management system, saving ~2 work-hours/week  
-- Streamlined payslips, scheduling, earnings tracking, route assignment, maintenance, and cost management  
-- Deployed on AWS S3, Beanstalk, RDS, SES, and CloudWatch  
-
----
-
 ## 🎓 Certifications
 
 - **AWS Certified Cloud Practitioner** — Mar 13 2025  
